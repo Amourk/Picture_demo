@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    >
+
+    <!--<com.example.picture_demo.PictureTagLayout-->
+        <!--android:id="@+id/tup"-->
+        <!--android:gravity="center"-->
+        <!--android:background="@drawable/bg_test"-->
+        <!--android:layout_width="380dp"-->
+        <!--android:layout_height="420dp"/>-->
+    <com.example.picture_demo.PictureTagLayout
+        android:layout_margin="10dp"
+        android:id="@+id/tupian"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        >
+    </com.example.picture_demo.PictureTagLayout>
+
+
+</LinearLayout>
